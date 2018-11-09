@@ -1,0 +1,21 @@
+body {
+padding: 30px;
+color: white;
+background-color:  #020202;
+font-family: futura-pt, sans-serif;
+font-style: normal;
+font-weight: 300;
+}
+
+h1 a{
+font-size: 50px;
+text-decoration: none;
+color: inherit;
+}
+p{
+  font-size: 10px;
+}
+
+img {
+  height: 40vw;
+}

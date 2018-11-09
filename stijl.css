@@ -1,0 +1,42 @@
+body {
+padding: 30px;
+color: white;
+background-color: #020202;
+font-family: futura-pt, sans-serif;
+font-style: normal;
+font-weight: 300;
+}
+
+h1 a{
+font-size: 50px;
+text-decoration: none;
+color: inherit;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+    color: red;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+a:hover:not(.active) {
+    color: white;
+}
+a:active {
+    color: white;
+}
+
+a.visited{
+  color: blue;
+}
+div.space{
+    padding-top: 20px;
+}
+
+.work{
+  color: white;
+}
